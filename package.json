@@ -1,5 +1,8 @@
 {
-  "name": "$package_name$",
+  "name": "chatBox_v1.0",
   "version": "0.0.1",
-  $END$
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
 }
